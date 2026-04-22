@@ -1,21 +1,20 @@
 # Book of Abstracts
-## 8th International Induced Polarization Workshop
 
-Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19697323.svg)](https://doi.org/10.5281/zenodo.19697323) [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
-## SCIENTIFIC PROGRAM
-8th International Induced Polarization Workshop
-May 26–28, 2026
-Saint-Alexis-des-Monts, Québec, Canada
-https://internationalipworkshop.com/
+## 8th International Induced Polarization Workshop  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19697323.svg)](https://doi.org/10.5281/zenodo.19697323)
+May 26–28, 2026  
+Saint-Alexis-des-Monts, Québec, Canada  
+https://internationalipworkshop.com/  
 
+## Scientific Program
 This volume contains the program, workshop information, and extended abstracts of the
 contributions presented at the 8th International Induced Polarization Workshop.
+
 Extended abstracts can be cited as:
 
-Author, A., Author, B. and Author, C. (2026) “Extended Abstract Title”, in 8th International
+> Author, A., Author, B. and Author, C. (2026) “Extended Abstract Title”, in 8th International
 Induced Polarization Workshop Book of Abstracts, Saint-Alexis-des-Monts, Québec, Canada, 26–
 28 May, pp. xx–yy.
 
